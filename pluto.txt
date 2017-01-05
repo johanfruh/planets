@@ -1,6 +1,11 @@
 is pluto a planet?
 No!
 I think it is
+<<<<<<< HEAD
 
 pluto is small
 
+=======
+Whiy yes, it is!
+ 
+this is getting confused
